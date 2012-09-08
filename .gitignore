@@ -12,3 +12,6 @@ Makefile$
 ^.*\.log
 ^.*\.swp$
 logs*
+Makefile
+blib
+pm_to_blib
